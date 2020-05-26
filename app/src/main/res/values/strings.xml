@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Localization</string>
-    <string name="button">Button</string>
+    <string name="button">Apply color</string>
     <string name="language">English</string>
     <string name="textArea">Now english</string>
+
+    <string-array name="colors">
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+    </string-array>
 </resources>
+

@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">Localization</string>
-    <string name="button">Кнопка</string>
+    <string name="button">Применить цвет</string>
     <string name="language">Русский</string>
     <string name="textArea">Теперь русский язык)</string>
+
+    <string-array name="colors">
+        <item>Зеленый</item>
+        <item>Синий</item>
+        <item>Желтый</item>
+    </string-array>
 </resources>
