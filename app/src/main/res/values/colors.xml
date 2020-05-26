@@ -9,10 +9,10 @@
     <color name="colorPrimaryBlue">#3A4AD3</color>
     <color name="colorPrimaryDarkBlue">#131573</color>
     <color name="colorAccentBlue">#23288E</color>
-    <color name="colorBackgroundBlue">#95B37E</color>
+    <color name="colorBackgroundBlue">#454DD6</color>
 
     <color name="colorPrimaryYellow">#EAC700</color>
     <color name="colorPrimaryDarkYellow">#8C781D</color>
     <color name="colorAccentYellow">#CCAE03</color>
-    <color name="colorBackgroundYellow">#95B37E</color>
+    <color name="colorBackgroundYellow">#FFF355</color>
 </resources>
